@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-Hi, I'm a Medior Level - Laravel Developer<br>🔭 I'm currently working on Laravel web apps and API's projects<br>⚡ I am very handy and developed great skills in my one-year working experience of laravel<br>🌱 I'm currently learning and growing my developer journey with Git with deployment, Github, CI/CD pipeline Continous integration and Continous deployment, Automated testing OR unit testing, TDD Test Driven Development<br>🌱 I'm also developing my AWS journey with AWS S3 storage, EC2 instance, and AWS RDS database certifications<br>🤔 I'm looking for help with these things to get my career goals
+👋 Hi, I'm a Medior Level - Laravel Developer<br>🔭 I'm currently working on Laravel web apps and API's projects<br>⚡ I am very handy and developed great skills in my one-year working experience of laravel<br>🌱 I'm currently learning and growing my developer journey with Git with deployment, Github, CI/CD pipeline Continous integration and Continous deployment, Automated testing OR unit testing, TDD Test Driven Development<br>🌱 I'm also developing my AWS journey with AWS S3 storage, EC2 instance, and AWS RDS database certifications<br>🤔 I'm looking for help with these things to get my career goals
 
 
 ## 🌐 Socials:
