@@ -14,8 +14,21 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
-👋 Hi, I'm a Medior Level - Laravel Developer<br>🔭 I'm currently working on Laravel web apps and API projects<br>⚡ I am very handy and has developed great skills in my one-year working experience of laravel<br>🌱 I'm now learning and growing my developer journey with Git deployment, Github, CI/CD pipeline Continous integration and Continous deployment, Automated testing OR unit testing, TDD Test Driven Development<br>🌱 I'm also developing my AWS journey with AWS S3 storage, EC2 instance, and AWS RDS database certifications<br>🤔 I'm looking for help with these things to get my career goals
+<h1 align="center">👋 Hi, I'm Nouman Sarwar</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=f27466&width=435&lines=Medior+Laravel+Developer+from+Pakistan.;Passionate+and+down-to-earth+proof+that+we+can+change+the+world+with+fast-proven+technology%E2%AD%90." alt="Typing SVG" /></a>
+</h3>
+
+
+<a href="https://app.daily.dev/noumansarwar"><img align="right" src="https://api.daily.dev/devcards/fa07261b63474972b93edf49176d2f06.png?r=ya2" width="350" alt="Nouman Sarwar's Dev Card"/></a>
+
+Enthusiastic and driven student of Computer Science has good expertise and a solid background in Laravel PHP Framework and related technologies and my experience with developing REST APIs with React Native mobile app development, user management, and multilingual features for web applications is impressive. My proficiency in JS, JQuery, and AJAX will be helpful in developing dynamic and interactive web applications.
+
+- 🔭 I'm currently working on Laravel web apps and API projects.<br>
+- ⚡ I am very handy and has developed great skills in my one-year working experience of laravel.<br>
+- 🌱 I'm now learning and growing my developer journey with Git deployment, Github, CI/CD pipeline Continous integration and Continous  deployment, Automated testing OR unit testing, TDD Test Driven Development.<br>
+- 🌱 I'm also developing my AWS journey with AWS S3 storage, EC2 instance, and AWS RDS database certifications.<br>
+- 🤔 I'm looking for help with these things to get my career goals.  
 
 
 ## 🌐 Socials:
