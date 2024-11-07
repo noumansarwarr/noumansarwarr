@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">👋 Hi, I'm Nouman Sarwar</h1>
 <h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=800&color=f27466&center=true&width=800&lines=Medior+Laravel+Developer+from+Pakistan.;Passionate+and+down-to-earth+proof+that+we+can+change+the+world+with+fast-proven+technology%E2%AD%90." alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=800&color=f27466&center=true&width=800&lines=Lead+Full+Stack+Developer+|+PHP+- +Laravel+from+Pakistan.;Passionate+and+down-to-earth+proof+that+we+can+change+the+world+with+fast-proven+technology%E2%AD%90." alt="Quote" />
 </h3> 
 
 <a href="https://app.daily.dev/noumansarwar"><img align="right" src="https://api.daily.dev/devcards/fa07261b63474972b93edf49176d2f06.png?r=ya2" width="350" alt="Nouman Sarwar's Dev Card"/></a>
